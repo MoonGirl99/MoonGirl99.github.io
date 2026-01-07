@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Mahshid Ahmadi Background
+title: Mahshid Ahmadi - AI Engineer Graduate
 
 # Your name to show in the footer
 author: Mahshid Ahmadi
@@ -21,10 +21,8 @@ author: Mahshid Ahmadi
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects: "tags"
+  CV: "MahshidAhmadi_ai_graduate_cv_.pdf"
 
 ################
 # --- Logo --- #
@@ -81,7 +79,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: AI Engineer Graduate specializing in Machine Learning, Deep Learning, and GeoAI. Passionate about applied AI and software development.
 
 ###########################
 # --- General options --- #
@@ -97,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "MoonGirl99.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -123,7 +121,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "AI,Machine Learning,Deep Learning,GeoAI,Data Science,Python,TensorFlow,NLP,LLM,Geospatial,Software Development"
 
 ######################################
 # --- Colours / background image --- #
